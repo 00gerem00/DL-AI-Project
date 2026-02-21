@@ -1,6 +1,10 @@
-
 dataset/
+fast_dataset/
 *.zip
 kaggle.json
 __pycache__/
 .ipynb_checkpoints/
+
+# PyTorch model weights (Fondamentale per i Modelli A e B!)
+*.pth
+*.pt
