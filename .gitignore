@@ -8,3 +8,7 @@ __pycache__/
 # PyTorch model weights (Fondamentale per i Modelli A e B!)
 *.pth
 *.pt
+
+# Permetti il caricamento dei modelli migliori della Grid Search
+!models_best/*.pth
+!models_best/*.json

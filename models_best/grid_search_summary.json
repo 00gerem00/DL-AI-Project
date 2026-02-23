@@ -1,0 +1,18 @@
+{
+    "Initial_LR_0.001": {
+        "best_val_loss": 0.3060618813391085,
+        "final_accuracy": 0.8740740740740741
+    },
+    "Initial_LR_0.0005": {
+        "best_val_loss": 0.3003288138795782,
+        "final_accuracy": 0.8722222222222222
+    },
+    "Initial_LR_0.0001": {
+        "best_val_loss": 0.2420228492330622,
+        "final_accuracy": 0.9203703703703704
+    },
+    "Initial_LR_1e-05": {
+        "best_val_loss": 0.25262474417686465,
+        "final_accuracy": 0.8777777777777778
+    }
+}
